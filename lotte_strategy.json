@@ -1,0 +1,3242 @@
+[
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "ACTYON",
+    "trim_options": "ACTYON (G)1.5T S8 5인 2WD AT | A/T, 딥컨트롤 패키지Ⅱ, 3D 어라운드 뷰 모니터링 시스템",
+    "color": "그랜드화이트 / 블랙",
+    "price": 36450000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 106,
+      "year": "25MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (G)1.6 모던 2WD AT | A/T, 현대스마트센스",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 24600000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 34,
+    "strategy_total": 34,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 58,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (G)1.6 모던 2WD AT | A/T, 현대스마트센스",
+    "color": "에코트로닉 그레이펄 / 블랙모노톤",
+    "price": 24600000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 3,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 67,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (G)1.6 모던 2WD AT | A/T, 현대스마트센스",
+    "color": "아틀라스 화이트 / 블랙모노톤",
+    "price": 24600000,
+    "normal_total": 9,
+    "strategy_now": 9,
+    "strategy_later": 46,
+    "strategy_total": 55,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 68,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (G)1.6 모던 2WD AT | A/T",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 23910000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 23,
+    "strategy_total": 23,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 69,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (G)1.6 모던 2WD AT | A/T",
+    "color": "아틀라스 화이트 / 블랙모노톤",
+    "price": 23910000,
+    "normal_total": 16,
+    "strategy_now": 16,
+    "strategy_later": 61,
+    "strategy_total": 77,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 70,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (G)1.6 스마트 2WD AT | A/T, 컨비니언스, 하이패스, 인포테인먼트내비",
+    "color": "아틀라스 화이트 / 블랙모노톤",
+    "price": 22020000,
+    "normal_total": 5,
+    "strategy_now": 5,
+    "strategy_later": 49,
+    "strategy_total": 54,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 57,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (G)1.6 인스퍼레이션 2WD AT | A/T",
+    "color": "아틀라스 화이트 / 블랙모노톤",
+    "price": 27590000,
+    "normal_total": 33,
+    "strategy_now": 33,
+    "strategy_later": 0,
+    "strategy_total": 33,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 107,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (G)1.6 인스퍼레이션 2WD AT | A/T",
+    "color": "아틀라스 화이트 / 캐쉬미어 베이지",
+    "price": 27590000,
+    "normal_total": 19,
+    "strategy_now": 19,
+    "strategy_later": 0,
+    "strategy_total": 19,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 140,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (H)1.6 모던 2WD AT | A/T",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 29340000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 4,
+    "strategy_total": 4,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 55,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (H)1.6 모던 2WD AT | A/T",
+    "color": "아틀라스 화이트 / 블랙모노톤",
+    "price": 29340000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 17,
+    "strategy_total": 17,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 56,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (H)1.6 스마트 2WD AT | A/T, 하이패스, 인포테인먼트내비",
+    "color": "아틀라스 화이트 / 블랙모노톤",
+    "price": 27570000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 7,
+    "strategy_total": 7,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 54,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "AVANTE",
+    "trim_options": "AVANTE CN7 (H)1.6 인스퍼레이션 2WD AT | A/T",
+    "color": "아틀라스 화이트 / 블랙모노톤",
+    "price": 32650000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 9,
+    "strategy_total": 9,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 66,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW 5 SERIES",
+    "trim_options": "BMW THE NEW 5 SERIES 520i (G)2.0 2WD 5인승 | A/T",
+    "color": "#475 - SAPPHIRE BLACK [BMW] / KSJX - VEGANZA ESPRESSO BROWN",
+    "price": 69800000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 1,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 158,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW 5 SERIES",
+    "trim_options": "BMW THE NEW 5 SERIES 520i M SPT (G)2.0 2 | A/T",
+    "color": "#300 - ALPINE WHITE [BMW] / KSJX - VEGANZA ESPRESSO BROWN",
+    "price": 74300000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 2,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 159,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW 5 SERIES",
+    "trim_options": "BMW THE NEW 5 SERIES 520i M SPT (G)2.0 2 | A/T",
+    "color": "#300 - ALPINE WHITE [BMW] / KSSW - VEGANZA BLACK",
+    "price": 74300000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 1,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 160,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW 5 SERIES",
+    "trim_options": "BMW THE NEW 5 SERIES 520i M SPT (G)2.0 2 | A/T",
+    "color": "#416 - CARBON BLACK [BMW] / KSJX - VEGANZA ESPRESSO BROWN",
+    "price": 74300000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 2,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 161,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW 5 SERIES",
+    "trim_options": "BMW THE NEW 5 SERIES 520i M SPT (G)2.0 2 | A/T",
+    "color": "#416 - CARBON BLACK [BMW] / KSSW - VEGANZA BLACK",
+    "price": 74300000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 1,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 162,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW X3",
+    "trim_options": "BMW X3 20 xDrive M Spt (G) 2.0 | 오토",
+    "color": "#475 - SAPPHIRE BLACK [BMW] / KSJX - VEGANZA ESPRESSO BROWN",
+    "price": 74700000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 1,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 143,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW X3",
+    "trim_options": "BMW X3 20 xDrive M Spt (G) 2.0 | 오토",
+    "color": "#300 - ALPINE WHITE [BMW] / KSSW - VEGANZA BLACK",
+    "price": 74700000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 1,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 144,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW X3",
+    "trim_options": "BMW X3 20 xDrive M Spt (G) 2.0 | 오토",
+    "color": "#300 - ALPINE WHITE [BMW] / KSJX - VEGANZA ESPRESSO BROWN",
+    "price": 74700000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 1,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 145,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW X5",
+    "trim_options": "BMW X5 xDrive 40i M Spt (G) 3.0 | 오토",
+    "color": "A96 - MINERAL WHITE [BMW] / VAHF - MERINO COFFEE [BMW]",
+    "price": 130500000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 1,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 110,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "BMW X5",
+    "trim_options": "BMW X5 xDrive 40i M Spt (G) 3.0 | 오토",
+    "color": "#416 - CARBON BLACK [BMW] / VAHF - MERINO COFFEE [BMW]",
+    "price": 130500000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 1,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 111,
+      "year": null,
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 X-Line 9인 2WD AT | A/T, BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트",
+    "color": "오로라 블랙펄 / 코튼베이지",
+    "price": 56570000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 19,
+    "strategy_total": 19,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 20,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 X-Line 9인 2WD AT | A/T, BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트",
+    "color": "오로라 블랙펄 / 토프",
+    "price": 56570000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 5,
+    "strategy_total": 5,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 93,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 X-Line 9인 2WD AT | A/T, 파츠전용(사이드스텝,LED T.G.L), BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트, [9인승]X-Line 전용 사이드스텝, LED 테일게이트램프",
+    "color": "세라믹실버 / 코튼베이지",
+    "price": 57140000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 25,
+    "strategy_total": 25,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 94,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 X-Line 9인 2WD AT | A/T, 파츠전용(사이드스텝,LED T.G.L), BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트, [9인승]X-Line 전용 사이드스텝, LED 테일게이트램프",
+    "color": "오로라 블랙펄 / 코튼베이지",
+    "price": 57140000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 10,
+    "strategy_total": 10,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 95,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 7인 2WD AT | A/T, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩",
+    "color": "판테라메탈 / 토프",
+    "price": 51140000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 5,
+    "strategy_total": 5,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 92,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 드라이브와이즈",
+    "color": "판테라메탈 / 토프",
+    "price": 46010000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 21,
+    "strategy_total": 21,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 11,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 드라이브와이즈, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 46090000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 31,
+    "strategy_total": 31,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 12,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 드라이브와이즈, 모니터링팩, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 47290000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 47,
+    "strategy_total": 47,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 13,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스타일",
+    "color": "오로라 블랙펄 / 토프",
+    "price": 51610000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 31,
+    "strategy_total": 31,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 14,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 51690000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 14,
+    "strategy_total": 18,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 15,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 듀얼선루프, 드라이브와이즈, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 46890000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 10,
+    "strategy_total": 10,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 87,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 드라이브와이즈, 모니터링팩, 스타일",
+    "color": "판테라메탈 / 토프",
+    "price": 48210000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 10,
+    "strategy_total": 10,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 88,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 드라이브와이즈, 모니터링팩, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 48290000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 20,
+    "strategy_total": 20,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 89,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 48490000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 18,
+    "strategy_total": 18,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 90,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 노블레스 9인 2WD AT | A/T, 컴포트, 듀얼선루프, 드라이브와이즈, 모니터링팩, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 50490000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 10,
+    "strategy_total": 10,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 91,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 7인 2WD AT | A/T, BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트, 스타일",
+    "color": "오로라 블랙펄 / 네이비그레이",
+    "price": 59150000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 17,
+    "strategy_total": 17,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 23,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 7인 2WD AT | A/T, BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 코튼베이지",
+    "price": 59230000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 19,
+    "strategy_total": 19,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 24,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 9인 2WD AT | A/T, 컴포트, 듀얼선루프, 드라이브와이즈, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 네이비그레이",
+    "price": 52540000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 11,
+    "strategy_total": 13,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 3,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 9인 2WD AT | A/T, 컴포트, 듀얼선루프, 드라이브와이즈, 스타일",
+    "color": "오로라 블랙펄 / 토프",
+    "price": 52460000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 13,
+    "strategy_total": 15,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 16,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 9인 2WD AT | A/T, 컴포트, 듀얼선루프, 드라이브와이즈, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 52540000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 15,
+    "strategy_total": 17,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 17,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 9인 2WD AT | A/T, BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트, 스타일",
+    "color": "오로라 블랙펄 / 네이비그레이",
+    "price": 56510000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 13,
+    "strategy_total": 15,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 18,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 9인 2WD AT | A/T, BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트, 스타일",
+    "color": "오로라 블랙펄 / 토프",
+    "price": 56510000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 10,
+    "strategy_total": 10,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 19,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 9인 2WD AT | A/T, BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 코튼베이지",
+    "price": 56590000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 11,
+    "strategy_total": 19,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 21,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 시그니처 9인 2WD AT | A/T, BOSE사운드, 컴포트, 듀얼선루프, 드라이브와이즈, HUD+빌트인캠2, 모니터링팩, 스마트커넥트, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 56590000,
+    "normal_total": 9,
+    "strategy_now": 9,
+    "strategy_later": 13,
+    "strategy_total": 22,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 22,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 프레스티지 9인 2WD AT | A/T, 컨비니언스, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 42090000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 15,
+    "strategy_total": 16,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 8,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 프레스티지 9인 2WD AT | A/T, 12.3인치 클러스터, 컨비니언스, 드라이브와이즈, 모니터링팩, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 44790000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 37,
+    "strategy_total": 37,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 9,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 프레스티지 9인 2WD AT | A/T, 12.3인치 클러스터, 컨비니언스, 드라이브와이즈, 모니터링팩, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 45790000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 13,
+    "strategy_total": 13,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 10,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "CARNIVAL",
+    "trim_options": "CARNIVAL KA4 (H)1.6 프레스티지 9인 2WD AT | A/T, 12.3인치 클러스터, 컨비니언스, 드라이브와이즈, 스노우화이트펄",
+    "color": "스노우화이트펄 / 토프",
+    "price": 43890000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 75,
+    "strategy_total": 75,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 86,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRAND KOLEOS",
+    "trim_options": "GRAND KOLEOS (H)1.5 espritAlpine 5인 2WD | A/T, BOSE 서라운드 사운드 시스템+ 액티브 노이즈 캔슬레이션, 증강현실 헤드업 디스플레이+ 차음 윈드 쉴드 글라스, 클라우드 펄",
+    "color": "클라우드 펄 / 블랙 나파 인조가죽 시트",
+    "price": 47790000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 0,
+    "strategy_total": 4,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 139,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRAND KOLEOS",
+    "trim_options": "GRAND KOLEOS (H)1.5 espritAlpine 5인 2WD | A/T, BOSE 서라운드 사운드 시스템+ 액티브 노이즈 캔슬레이션, 증강현실 헤드업 디스플레이+ 차음 윈드 쉴드 글라스",
+    "color": "메탈릭 블랙 / 블랙 나파 인조가죽 시트",
+    "price": 47490000,
+    "normal_total": 3,
+    "strategy_now": 3,
+    "strategy_later": 0,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 153,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRAND KOLEOS",
+    "trim_options": "GRAND KOLEOS (H)1.5 espritAlpine 5인 2WD | A/T, BOSE 서라운드 사운드 시스템+ 액티브 노이즈 캔슬레이션, 증강현실 헤드업 디스플레이+ 차음 윈드 쉴드 글라스",
+    "color": "어반 그레이 / 블랙 나파 인조가죽 시트",
+    "price": 47490000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 157,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRAND KOLEOS",
+    "trim_options": "GRAND KOLEOS (H)1.5 iconic 5인 2WD AT | A/T, 증강현실 헤드업 디스플레이+ 차음 윈드 쉴드 글라스+ 프레임리스 룸미러, 클라우드 펄",
+    "color": "클라우드 펄 / 퀼팅 라이트 브라운 나파 인조가죽 시트",
+    "price": 44580000,
+    "normal_total": 5,
+    "strategy_now": 5,
+    "strategy_later": 0,
+    "strategy_total": 5,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 131,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRAND KOLEOS",
+    "trim_options": "GRAND KOLEOS (H)1.5 iconic 5인 2WD AT | A/T, BOSE 서라운드 사운드 시스템+ 액티브 노이즈 캔슬레이션, 증강현실 헤드업 디스플레이+ 차음 윈드 쉴드 글라스+ 프레임리스 룸미러",
+    "color": "메탈릭 블랙 / 퀼팅 라이트 브라운 나파 인조가죽 시트",
+    "price": 45570000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 0,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 154,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRAND KOLEOS",
+    "trim_options": "GRAND KOLEOS (H)1.5 iconic 5인 2WD AT | A/T, BOSE 서라운드 사운드 시스템+ 액티브 노이즈 캔슬레이션, 증강현실 헤드업 디스플레이+ 차음 윈드 쉴드 글라스+ 프레임리스 룸미러, 클라우드 펄",
+    "color": "클라우드 펄 / 퀼팅 라이트 브라운 나파 인조가죽 시트",
+    "price": 45870000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 0,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 155,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRAND KOLEOS",
+    "trim_options": "GRAND KOLEOS (H)1.5 iconic 5인 2WD AT | A/T, 파노라마 선루프, BOSE 서라운드 사운드 시스템+ 액티브 노이즈 캔슬레이션, 증강현실 헤드업 디스플레이+ 차음 윈드 쉴드 글라스+ 프레임리스 룸미러",
+    "color": "메탈릭 블랙 / 퀼팅 라이트 브라운 나파 인조가죽 시트",
+    "price": 46660000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 156,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 아너스 2WD AT | A/T, 세레니티 화이트 펄",
+    "color": "세레니티 화이트 펄 / 인디고/브라운투톤",
+    "price": 52590000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 120,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T, 현대스마트센스2플러스",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 51540000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 112,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T, 현대스마트센스2플러스, 세레니티 화이트 펄",
+    "color": "세레니티 화이트 펄 / 인디고/브라운투톤",
+    "price": 51640000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 0,
+    "strategy_total": 8,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 121,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T, 세레니티 화이트 펄",
+    "color": "세레니티 화이트 펄 / 인디고/브라운투톤",
+    "price": 50290000,
+    "normal_total": 3,
+    "strategy_now": 3,
+    "strategy_later": 0,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 122,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T",
+    "color": "녹턴 그레이 메탈릭 / 인디고/브라운투톤",
+    "price": 50190000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 123,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 50190000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 0,
+    "strategy_total": 4,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 124,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T",
+    "color": "어비스블랙펄 / 인디고/브라운투톤",
+    "price": 50190000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 125,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T, 현대스마트센스2플러스",
+    "color": "어비스블랙펄 / 인디고/브라운투톤",
+    "price": 51540000,
+    "normal_total": 13,
+    "strategy_now": 13,
+    "strategy_later": 0,
+    "strategy_total": 13,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 126,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T, 현대스마트센스2플러스, 19인치타이어",
+    "color": "녹턴 그레이 메탈릭 / 인디고/브라운투톤",
+    "price": 51790000,
+    "normal_total": 6,
+    "strategy_now": 6,
+    "strategy_later": 0,
+    "strategy_total": 6,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 132,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T, 현대스마트센스2플러스, 19인치타이어",
+    "color": "어비스블랙펄 / 인디고/브라운투톤",
+    "price": 51790000,
+    "normal_total": 18,
+    "strategy_now": 18,
+    "strategy_later": 0,
+    "strategy_total": 18,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 133,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 익스클루시브 2WD AT | A/T, 현대스마트센스2플러스, 19인치타이어",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 51790000,
+    "normal_total": 3,
+    "strategy_now": 3,
+    "strategy_later": 0,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 134,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 캘리그래피 2WD AT | A/T, 세레니티 화이트 펄",
+    "color": "세레니티 화이트 펄 / 인디고/브라운투톤(캘리그래피)",
+    "price": 54590000,
+    "normal_total": 6,
+    "strategy_now": 6,
+    "strategy_later": 0,
+    "strategy_total": 6,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 127,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 캘리그래피 2WD AT | A/T",
+    "color": "어비스블랙펄 / 인디고/브라운투톤(캘리그래피)",
+    "price": 54490000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 0,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 128,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 프리미엄 2WD AT | A/T, 컨비니언스, 현대스마트센스1, 파킹어시스트",
+    "color": "어비스블랙펄 / 인디고/브라운투톤",
+    "price": 48100000,
+    "normal_total": 3,
+    "strategy_now": 3,
+    "strategy_later": 1,
+    "strategy_total": 4,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 4,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 프리미엄 2WD AT | A/T, 컨비니언스, 현대스마트센스1, 파킹어시스트",
+    "color": "녹턴 그레이 메탈릭 / 인디고/브라운투톤",
+    "price": 48100000,
+    "normal_total": 7,
+    "strategy_now": 7,
+    "strategy_later": 0,
+    "strategy_total": 7,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 135,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 프리미엄 2WD AT | A/T, 컨비니언스, 현대스마트센스1, 파킹어시스트",
+    "color": "바이오필릭블루펄 / 블랙/브라운 투톤",
+    "price": 48100000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 136,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 프리미엄 2WD AT | A/T, 컨비니언스, 현대스마트센스1, 파킹어시스트",
+    "color": "어비스블랙펄 / 블랙/브라운 투톤",
+    "price": 48100000,
+    "normal_total": 11,
+    "strategy_now": 11,
+    "strategy_later": 0,
+    "strategy_total": 11,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 137,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "GRANDEUR",
+    "trim_options": "GRANDEUR GN7 (H)1.6T 프리미엄 2WD AT | A/T, 컨비니언스, 현대스마트센스1, 파킹어시스트",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 48100000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 0,
+    "strategy_total": 8,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 138,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "K8",
+    "trim_options": "K8 (H)1.6 베스트 셀렉션 2WD AT | A/T, 투톤휠(브라운/베이지), 드라이브와이즈",
+    "color": "오로라 블랙펄 / 뉴트럴베이지",
+    "price": 46170000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 1,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 63,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "K8",
+    "trim_options": "K8 (H)1.6 베스트 셀렉션 2WD AT | A/T, 투톤휠(브라운/베이지), 드라이브와이즈",
+    "color": "오로라 블랙펄 / 라운지브라운",
+    "price": 46170000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 1,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 64,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "K8",
+    "trim_options": "K8 (H)1.6 베스트 셀렉션 2WD AT | A/T, 투톤휠(브라운/베이지), 드라이브와이즈, 스마트커넥트, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 뉴트럴베이지",
+    "price": 48570000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 1,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 65,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "MORNING",
+    "trim_options": "MORNING URBAN (G)1.0 프레스티지 2WD AT | A/T, 컨비니언스, 내비게이션",
+    "color": "밀키베이지 / 블랙",
+    "price": 16600000,
+    "normal_total": 10,
+    "strategy_now": 10,
+    "strategy_later": 14,
+    "strategy_total": 24,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 25,
+      "year": "26각자",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "MORNING",
+    "trim_options": "MORNING URBAN (G)1.0 프레스티지 2WD AT | A/T, 컨비니언스, 내비게이션, 스타일",
+    "color": "밀키베이지 / 블랙",
+    "price": 17450000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 21,
+    "strategy_total": 21,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 26,
+      "year": "26각자",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "MORNING",
+    "trim_options": "MORNING URBAN (G)1.0 프레스티지 2WD AT | A/T, 컨비니언스, 내비게이션, 스타일",
+    "color": "순백색 / 블랙",
+    "price": 17450000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 26,
+    "strategy_total": 26,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 27,
+      "year": "26각자",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "MORNING",
+    "trim_options": "MORNING URBAN (G)1.0 프레스티지 2WD AT | A/T, 컨비니언스, 내비게이션",
+    "color": "순백색 / 블랙",
+    "price": 16600000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 7,
+    "strategy_total": 7,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 62,
+      "year": "26각자",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "MORNING",
+    "trim_options": "MORNING URBAN (G)1.0 프레스티지 2WD AT | A/T, 드라이브와이즈, 내비게이션, 16인치휠",
+    "color": "순백색 / 블랙",
+    "price": 17600000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 20,
+    "strategy_total": 20,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 100,
+      "year": "26각자",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "MORNING",
+    "trim_options": "MORNING URBAN (G)1.0 프레스티지 2WD AT | A/T, 드라이브와이즈, 내비게이션, 16인치휠",
+    "color": "밀키베이지 / 블랙",
+    "price": 17600000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 10,
+    "strategy_total": 10,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 101,
+      "year": "26각자",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 캘리그래피 9인 2WD AT | A/T, 빌트인캠2+, 듀얼 와이드 선루프, 프리뷰 전자제어 서스펜션",
+    "color": "에코트로닉 그레이펄 / 브라운원톤(인레이 소일 브라운)",
+    "price": 64600000,
+    "normal_total": 13,
+    "strategy_now": 13,
+    "strategy_later": 3,
+    "strategy_total": 16,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 76,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 캘리그래피 9인 2WD AT | A/T, 듀얼 와이드 선루프, 프리뷰 전자제어 서스펜션",
+    "color": "어비스블랙펄 / 브라운원톤(인레이 소일 브라운)",
+    "price": 63940000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 10,
+    "strategy_total": 11,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 77,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 캘리그래피 9인 4WD AT | A/T, 빌트인캠2+, 프리뷰 전자제어 서스펜션, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 브라운원톤(인레이 소일 브라운)",
+    "price": 66120000,
+    "normal_total": 16,
+    "strategy_now": 16,
+    "strategy_later": 10,
+    "strategy_total": 26,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 75,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 프레스티지 7인 2WD AT | A/T, 빌트인캠2+, 컴포트 플러스(7인승), 2열 다이내믹 바디케어 시트, 듀얼 와이드 선루프, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 네이비(다크네이비/라이트그레이)",
+    "price": 61990000,
+    "normal_total": 5,
+    "strategy_now": 5,
+    "strategy_later": 3,
+    "strategy_total": 8,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 1,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 프레스티지 7인 2WD AT | A/T, 빌트인캠2+, 컴포트 플러스(7인승), 플래티넘, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 블랙모노톤",
+    "price": 62090000,
+    "normal_total": 16,
+    "strategy_now": 16,
+    "strategy_later": 0,
+    "strategy_total": 16,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 2,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 프레스티지 7인 2WD AT | A/T, 빌트인캠2+, 컴포트 플러스(7인승), 듀얼 와이드 선루프",
+    "color": "어비스블랙펄 / 네이비(다크네이비/라이트그레이)",
+    "price": 61090000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 6,
+    "strategy_total": 6,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 74,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 프레스티지 9인 2WD AT | A/T, 원격 스마트 주차보조, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 머드그레이",
+    "price": 56110000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 3,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 71,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 프레스티지 9인 2WD AT | A/T, 빌트인캠2+, 컴포트 플러스(9인승), 듀얼 와이드 선루프",
+    "color": "에코트로닉 그레이펄 / 네이비(다크네이비/라이트그레이)",
+    "price": 58720000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 5,
+    "strategy_total": 6,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 72,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "PALISADE",
+    "trim_options": "PALISADE LX3 (H)2.5T 프레스티지 9인 2WD AT | A/T, 빌트인캠2+, 컴포트 플러스(9인승), 듀얼 와이드 선루프",
+    "color": "어비스블랙펄 / 네이비(다크네이비/라이트그레이)",
+    "price": 58720000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 9,
+    "strategy_total": 9,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 73,
+      "year": "런칭",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "POLESTAR 4",
+    "trim_options": "POLESTAR 4 LONG RANGE DUAL MOTOR | A/T, PLUS, NAPPA, SNOW",
+    "color": "SNOW / CHARCOAL",
+    "price": 82800000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 0,
+    "strategy_total": 8,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 113,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": "보조금 미적용",
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "POLESTAR 4",
+    "trim_options": "POLESTAR 4 LONG RANGE DUAL MOTOR | A/T, PLUS, NAPPA, PERFORMANCE, SNOW",
+    "color": "SNOW / ZINC",
+    "price": 88800000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 0,
+    "strategy_total": 4,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 114,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": "보조금 미적용",
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "POLESTAR 4",
+    "trim_options": "POLESTAR 4 LONG RANGE DUAL MOTOR | A/T, PLUS, NAPPA, PERFORMANCE, SNOW, 일렉트로크로믹 글래스 루프(PDLC SUNROOF)",
+    "color": "SNOW / ZINC",
+    "price": 90300000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 115,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": "보조금 미적용",
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "QM6",
+    "trim_options": "QM6 (L) 2.0 2WD RE | 오토, 주행보조시스템팩, 가죽시트+룸미러+앞좌석틸트헤드레스트+운전석이지엑세스+아웃사이드미러메모리, 클라우드 펄, 매직테일게이트+사각지대경보, EASY LIFE 인포테인먼트팩2",
+    "color": "클라우드 펄 / 모던 브라운 가죽시트",
+    "price": 33680000,
+    "normal_total": 12,
+    "strategy_now": 12,
+    "strategy_later": 0,
+    "strategy_total": 12,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 102,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "RAY",
+    "trim_options": "RAY (G)1.0 시그니처 2WD AT | A/T, 라이트그레이, 내비게이션",
+    "color": "순백색 / 블랙원톤",
+    "price": 19530000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 4,
+    "strategy_total": 4,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 46,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "RAY",
+    "trim_options": "RAY (G)1.0 시그니처 2WD AT | A/T, 내비게이션",
+    "color": "순백색 / 블랙원톤",
+    "price": 19530000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 11,
+    "strategy_total": 11,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 47,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "RAY",
+    "trim_options": "RAY (G)1.0 시그니처 2WD AT | A/T, 내비게이션",
+    "color": "밀키베이지 / 블랙원톤",
+    "price": 19530000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 8,
+    "strategy_total": 8,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 48,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "RAY",
+    "trim_options": "RAY (G)1.0 프레스티지 2WD AT | A/T, 내비게이션",
+    "color": "오로라 블랙펄 / 블랙원톤",
+    "price": 18350000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 44,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "RAY",
+    "trim_options": "RAY (G)1.0 프레스티지 2WD AT | A/T, 내비게이션",
+    "color": "밀키베이지 / 블랙원톤",
+    "price": 18350000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 8,
+    "strategy_total": 12,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 45,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "RAY",
+    "trim_options": "RAY (G)1.0 프레스티지 2WD AT | A/T, 내비게이션",
+    "color": "순백색 / 블랙원톤",
+    "price": 18350000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 6,
+    "strategy_total": 6,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 61,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T H-PICK 5인 2WD AT | A/T, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 그레이투톤(디자인플러스)",
+    "price": 46870000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 12,
+    "strategy_total": 12,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 52,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T H-PICK 5인 2WD AT | A/T, 듀얼와이드선루프, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 블랙모노톤(디자인플러스)",
+    "price": 47760000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 5,
+    "strategy_total": 7,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 53,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T 익스클루시브 5인 2WD AT | A/T",
+    "color": "에코트로닉 그레이펄 / 블랙모노톤",
+    "price": 41270000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 22,
+    "strategy_total": 22,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 51,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T 익스클루시브 5인 4WD AT | A/T",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 43500000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 2,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 85,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T 익스클루시브 6인 2WD AT | A/T, 듀얼와이드선루프+루프랙, 파킹어시스트플러스1",
+    "color": "페블 블루 펄 / 블랙모노톤",
+    "price": 44490000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 0,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 103,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T 프레스티지 5인 2WD AT | A/T, 파킹어시스트플러스1, 시트플러스, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 블랙모노톤",
+    "price": 46150000,
+    "normal_total": 7,
+    "strategy_now": 7,
+    "strategy_later": 3,
+    "strategy_total": 10,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 5,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T 프레스티지 5인 2WD AT | A/T, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 블랙모노톤",
+    "price": 44220000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 6,
+    "strategy_total": 7,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 50,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T 프레스티지 5인 2WD AT | A/T, 빌트인캠2 & 증강현실내비게이션, 파킹어시스트플러스1",
+    "color": "어비스블랙펄 / 블랙모노톤",
+    "price": 45780000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 3,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 84,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SANTAFE",
+    "trim_options": "SANTAFE MX (H)1.6T 프레스티지 6인 2WD AT | A/T, 디자인플러스 Ⅱ, 빌트인캠2 & 증강현실내비게이션, 파킹어시스트플러스1, 크리미 화이트 펄",
+    "color": "크리미 화이트 펄 / 피칸브라운투톤(디자인플러스)",
+    "price": 47750000,
+    "normal_total": 3,
+    "strategy_now": 3,
+    "strategy_later": 0,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 142,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SONATA",
+    "trim_options": "SONATA DN8 디엣지 (G)1.6T S트림 2WD AT | A/T",
+    "color": "녹턴 그레이 메탈릭 / 블랙모노톤",
+    "price": 30690000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 4,
+    "strategy_total": 4,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 83,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SONATA",
+    "trim_options": "SONATA DN8 디엣지 (G)1.6T 익스클루시브 2WD AT | A/T",
+    "color": "녹턴 그레이 메탈릭 / 블랙모노톤",
+    "price": 33770000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 5,
+    "strategy_total": 5,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 82,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SONATA",
+    "trim_options": "SONATA DN8 디엣지 (G)2.0 S트림 2WD AT | A/T, 빌트인 캠 2",
+    "color": "녹턴 그레이 메탈릭 / 블랙모노톤",
+    "price": 30470000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 2,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 81,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SONATA",
+    "trim_options": "SONATA DN8 디엣지 (H)2.0 익스클루시브 2WD AT | A/T, 세레니티 화이트 펄",
+    "color": "세레니티 화이트 펄 / 블랙모노톤",
+    "price": 38400000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 1,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 80,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈",
+    "color": "오로라 블랙펄 / 올리브브라운",
+    "price": 45130000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 38,
+    "strategy_total": 38,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 31,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈, 스노우화이트펄",
+    "color": "스노우화이트펄 / 올리브브라운",
+    "price": 45210000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 49,
+    "strategy_total": 49,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 32,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈, 선루프, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 올리브브라운",
+    "price": 47340000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 56,
+    "strategy_total": 56,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 33,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 노블레스 5인 4WD AT | A/T, 드라이브와이즈",
+    "color": "인터스텔라그레이 / 그레이",
+    "price": 47450000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 15,
+    "strategy_total": 15,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 34,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 시그니처 5인 2WD AT | A/T, 드라이브와이즈, HUD+빌트인",
+    "color": "인터스텔라그레이 / 올리브브라운",
+    "price": 48850000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 24,
+    "strategy_total": 24,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 35,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 시그니처 5인 2WD AT | A/T, 드라이브와이즈, HUD+빌트인, 스노우화이트펄",
+    "color": "스노우화이트펄 / 올리브브라운",
+    "price": 48930000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 28,
+    "strategy_total": 28,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 36,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 시그니처 5인 4WD AT | A/T, 드라이브와이즈, HUD+빌트인, 스노우화이트펄",
+    "color": "스노우화이트펄 / 올리브브라운",
+    "price": 51250000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 45,
+    "strategy_total": 46,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 37,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 프레스티지 5인 2WD AT | A/T",
+    "color": "인터스텔라그레이 / 올리브브라운",
+    "price": 40580000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 47,
+    "strategy_total": 55,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 28,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 프레스티지 5인 2WD AT | A/T, 12.3 클러스터, 드라이브와이즈",
+    "color": "오로라 블랙펄 / 올리브브라운",
+    "price": 42460000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 63,
+    "strategy_total": 71,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 29,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SORENTO",
+    "trim_options": "SORENTO MQ4 (H)1.6T 프레스티지 5인 2WD AT | A/T, 12.3 클러스터, 드라이브와이즈, 스노우화이트펄",
+    "color": "스노우화이트펄 / 올리브브라운",
+    "price": 42540000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 69,
+    "strategy_total": 69,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 30,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈, 모니터링, 스노우화이트펄",
+    "color": "스노우화이트펄 / 블랙",
+    "price": 34920000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 4,
+    "strategy_total": 8,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 7,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 노블레스 5인 2WD AT | A/T, 빌트인캠2, 드라이브와이즈, 모니터링, 스노우화이트펄",
+    "color": "스노우화이트펄 / 블랙",
+    "price": 35370000,
+    "normal_total": 5,
+    "strategy_now": 5,
+    "strategy_later": 3,
+    "strategy_total": 8,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 40,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 노블레스 5인 2WD AT | A/T, 컴포트, 드라이브와이즈, 모니터링, 스노우화이트펄",
+    "color": "스노우화이트펄 / 블랙",
+    "price": 35410000,
+    "normal_total": 5,
+    "strategy_now": 5,
+    "strategy_later": 2,
+    "strategy_total": 7,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 41,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈, 스노우화이트펄",
+    "color": "스노우화이트펄 / 블랙",
+    "price": 33780000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 16,
+    "strategy_total": 17,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 96,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 노블레스 5인 2WD AT | A/T, 컴포트, 드라이브와이즈, 모니터링, 스타일, 스노우화이트펄",
+    "color": "스노우화이트펄 / 라운지브라운",
+    "price": 36300000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 5,
+    "strategy_total": 13,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 97,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 노블레스 5인 4WD AT | A/T, 스노우화이트펄",
+    "color": "스노우화이트펄 / 블랙",
+    "price": 34770000,
+    "normal_total": 3,
+    "strategy_now": 3,
+    "strategy_later": 0,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 150,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 시그니처 5인 2WD AT | A/T, 빌트인캠2, 드라이브와이즈, 모니터링, 스노우화이트펄",
+    "color": "스노우화이트펄 / 라운지브라운",
+    "price": 38020000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 11,
+    "strategy_total": 11,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 38,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 시그니처 5인 2WD AT | A/T, 빌트인캠2, 드라이브와이즈, 크렐사운드, 모니터링, 19인치휠, 파노라마선루프, 스노우화이트펄",
+    "color": "스노우화이트펄 / 그레이",
+    "price": 39950000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 3,
+    "strategy_total": 7,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 98,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 시그니처 5인 2WD AT | A/T, 드라이브와이즈, 모니터링, 스노우화이트펄",
+    "color": "스노우화이트펄 / 라운지브라운",
+    "price": 37570000,
+    "normal_total": 5,
+    "strategy_now": 5,
+    "strategy_later": 0,
+    "strategy_total": 5,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 109,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (G)1.6T 프레스티지 5인 2WD AT | A/T, 내비게이션, 스노우화이트펄",
+    "color": "스노우화이트펄 / 블랙",
+    "price": 30040000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 28,
+    "strategy_total": 28,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 99,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (H)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈, 모니터링, 스노우화이트펄",
+    "color": "스노우화이트펄 / 라운지브라운",
+    "price": 40740000,
+    "normal_total": 9,
+    "strategy_now": 9,
+    "strategy_later": 0,
+    "strategy_total": 9,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 39,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (H)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈",
+    "color": "그래비티그레이 / 라운지브라운",
+    "price": 39520000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 1,
+    "strategy_total": 9,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 43,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (H)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈, 스노우화이트펄",
+    "color": "스노우화이트펄 / 라운지브라운",
+    "price": 39600000,
+    "normal_total": 5,
+    "strategy_now": 5,
+    "strategy_later": 0,
+    "strategy_total": 5,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 151,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (H)1.6T 노블레스 5인 2WD AT | A/T, 드라이브와이즈, 스노우화이트펄",
+    "color": "스노우화이트펄 / 블랙",
+    "price": 39600000,
+    "normal_total": 9,
+    "strategy_now": 9,
+    "strategy_later": 0,
+    "strategy_total": 9,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 152,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "SPORTAGE",
+    "trim_options": "SPORTAGE NQ5 (H)1.6T 프레스티지 5인 4WD AT | A/T, 내비게이션",
+    "color": "그래비티그레이 / 블랙",
+    "price": 38110000,
+    "normal_total": 13,
+    "strategy_now": 13,
+    "strategy_later": 0,
+    "strategy_total": 13,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 42,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TIVOLI",
+    "trim_options": "THE NEW TIVOLI (G) 1.5 V5 2WD AT | 오토, 밸류업패키지, 컨비니언스 패키지",
+    "color": "그랜드화이트 / 블랙",
+    "price": 23910000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 0,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 146,
+      "year": "24MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TIVOLI",
+    "trim_options": "THE NEW TIVOLI (G)1.6 V1 2WD AT | A/T, 9인치 내비게이션 패키지, 밸류업패키지",
+    "color": "그랜드화이트 / 블랙",
+    "price": 21450000,
+    "normal_total": 11,
+    "strategy_now": 11,
+    "strategy_later": 2,
+    "strategy_total": 13,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 147,
+      "year": "24MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TIVOLI",
+    "trim_options": "THE NEW TIVOLI (G)1.6 V1 2WD AT | A/T, 9인치 내비게이션 패키지, 밸류업패키지",
+    "color": "스페이스블랙 / 블랙",
+    "price": 21450000,
+    "normal_total": 6,
+    "strategy_now": 6,
+    "strategy_later": 0,
+    "strategy_total": 6,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 148,
+      "year": "24MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TIVOLI",
+    "trim_options": "THE NEW TIVOLI (G)1.6 V3 2WD AT | A/T, 파퓰러 컬렉션 패키지",
+    "color": "그랜드화이트 / 블랙",
+    "price": 23950000,
+    "normal_total": 21,
+    "strategy_now": 21,
+    "strategy_later": 6,
+    "strategy_total": 27,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 6,
+      "year": "24MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TIVOLI",
+    "trim_options": "THE NEW TIVOLI (G)1.6 V3 2WD AT | A/T, 9인치 내비게이션 패키지, 하이패스, 룸미러",
+    "color": "스페이스블랙 / 블랙",
+    "price": 23510000,
+    "normal_total": 20,
+    "strategy_now": 20,
+    "strategy_later": 0,
+    "strategy_total": 20,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 104,
+      "year": "24MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TIVOLI",
+    "trim_options": "THE NEW TIVOLI (G)1.6 V3 2WD AT | A/T, 9인치 내비게이션 패키지, 하이패스, 룸미러",
+    "color": "그랜드화이트 / 블랙",
+    "price": 23510000,
+    "normal_total": 17,
+    "strategy_now": 17,
+    "strategy_later": 1,
+    "strategy_total": 18,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 116,
+      "year": "24MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TIVOLI",
+    "trim_options": "THE NEW TIVOLI (G)1.6 V3 2WD AT | A/T, 파퓰러 컬렉션 패키지",
+    "color": "스페이스블랙 / 블랙",
+    "price": 23950000,
+    "normal_total": 8,
+    "strategy_now": 8,
+    "strategy_later": 0,
+    "strategy_total": 8,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 149,
+      "year": "24MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TORRES",
+    "trim_options": "THE NEW TORRES (G) 1.5 T5 2WD AT | A/T, 밸류업 패키지, 12.3인치KGM링크 + 인텔리전트어댑티브크루즈컨트롤",
+    "color": "그랜드화이트 / 블랙",
+    "price": 31240000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 0,
+    "strategy_total": 4,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 117,
+      "year": "25MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TORRES",
+    "trim_options": "THE NEW TORRES (G) 1.5 T7 2WD AT | 오토, 딥 컨트럴 패키지Ⅱ, 하이컴포트 패키지",
+    "color": "그랜드화이트 / 하이컴포트 패키지 + 천연가죽(브라운)",
+    "price": 34930000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 105,
+      "year": "25MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TORRES",
+    "trim_options": "THE NEW TORRES (G) 1.5 T7 2WD AT | 오토, 딥 컨트럴 패키지Ⅱ, 스마트 파워 테일게이트 패키지, 3D 어라운드 뷰 모니터링 시스템",
+    "color": "그랜드화이트 / 블랙",
+    "price": 34980000,
+    "normal_total": 2,
+    "strategy_now": 2,
+    "strategy_later": 0,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 118,
+      "year": "25MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TORRES",
+    "trim_options": "THE NEW TORRES (G) 1.5 T7 2WD AT | 오토, 천연가죽시트(브라운), 딥 컨트럴 패키지Ⅱ, 스마트 파워 테일게이트 패키지",
+    "color": "그랜드화이트 / 천연가죽(브라운)",
+    "price": 34530000,
+    "normal_total": 3,
+    "strategy_now": 3,
+    "strategy_later": 0,
+    "strategy_total": 3,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 119,
+      "year": "25MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TRAX",
+    "trim_options": "TRAX CROSSOVER (G)1.2T RS 5인 2WD AT | A/T, 미드나잇 에디션",
+    "color": "모던블랙 / 내장기본색",
+    "price": 29300000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 129,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TRAX",
+    "trim_options": "TRAX CROSSOVER (G)1.2T RS 5인 2WD AT | A/T, 테크놀로지 패키지",
+    "color": "퓨어화이트 / 내장기본색",
+    "price": 29300000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 130,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TUCSON",
+    "trim_options": "TUCSON NX (H)1.6T H-PICK 5인 2WD AT | A/T, 빌트인캠+증강현실내비게이션, 파킹어시스트Ⅱ",
+    "color": "크리미 화이트 펄 / 블랙/그레이투톤",
+    "price": 39520000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 10,
+    "strategy_total": 10,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 49,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TUCSON",
+    "trim_options": "TUCSON NX (H)1.6T H-PICK 5인 2WD AT | A/T, 파킹어시스트Ⅱ",
+    "color": "팬텀 블랙 펄 / 블랙/그레이투톤",
+    "price": 39070000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 1,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 60,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TUCSON",
+    "trim_options": "TUCSON NX (H)1.6T 모던 5인 2WD AT | A/T, 현대스마트센스, 인포테인먼트내비",
+    "color": "크리미 화이트 펄 / 블랙모노톤",
+    "price": 35210000,
+    "normal_total": 4,
+    "strategy_now": 4,
+    "strategy_later": 16,
+    "strategy_total": 20,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 59,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TUCSON",
+    "trim_options": "TUCSON NX (H)1.6T 모던 5인 2WD AT | A/T, 컴포트Ⅰ, 인포테인먼트내비",
+    "color": "아마존 그레이 메탈릭 / 블랙모노톤",
+    "price": 35500000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 2,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 79,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TUCSON",
+    "trim_options": "TUCSON NX (H)1.6T 모던 5인 2WD AT | A/T, 컴포트Ⅰ, 현대스마트센스, 인포테인먼트내비",
+    "color": "아마존 그레이 메탈릭 / 블랙/그레이투톤",
+    "price": 35900000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 141,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TUCSON",
+    "trim_options": "TUCSON NX (H)1.6T 프리미엄 5인 2WD AT | A/T, 빌트인캠+증강현실내비게이션, 익스테리어디자인Ⅱ",
+    "color": "크리미 화이트 펄 / 블랙모노톤",
+    "price": 37840000,
+    "normal_total": 0,
+    "strategy_now": 0,
+    "strategy_later": 2,
+    "strategy_total": 2,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 78,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  },
+  {
+    "maker": "롯데렌터카(전략구매)",
+    "model": "TRAILBLAZER",
+    "trim_options": "더 뉴 TRAILBLAZER (G)1.3T RS 5인 2WD AT | A/T, 드라이브 어시스트 패키지, 프리미엄 패키지, 파노라마 선루프, 스노우화이트펄",
+    "color": "스노우화이트펄 (옵션추가) / 내장기본색",
+    "price": 33620000,
+    "normal_total": 1,
+    "strategy_now": 1,
+    "strategy_later": 0,
+    "strategy_total": 1,
+    "meta": {
+      "date": "1월 9일",
+      "stock_no": 108,
+      "year": "26MY",
+      "example_ship_date": null,
+      "in_production": 0,
+      "subsidy_area": null,
+      "national_subsidy": 0
+    }
+  }
+]
